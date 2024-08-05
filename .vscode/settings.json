@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\human\\Downloads\\orai18n-19.3.0.0.jar",
+        "c:\\Users\\human\\Downloads\\ojdbc8-23.4.0.24.05.jar",
+        "c:\\Users\\human\\Downloads\\lombok.jar"
+    ]
+}
